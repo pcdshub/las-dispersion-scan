@@ -4,6 +4,7 @@ happi
 matplotlib
 numpy
 ophyd
+pcdsdevices
 pydm
 qtpy
 scipy
