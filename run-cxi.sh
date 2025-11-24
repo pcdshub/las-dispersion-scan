@@ -6,8 +6,8 @@ cd "$SCRIPT_DIR" || exit 1
 export QMINI_PREFIX=CXI:LAS:SPL:SP1
 export QMINI_NAME=cxi_spec_01_qmini
 
-export MOTOR_PREFIX=CXI:LAS:MMN:09
-export MOTOR_NAME=cxi_las_mmn_09
+export MOTOR_PREFIX=CXI:LAS:MMN:10
+export MOTOR_NAME=cxi_las_mmn_10
 
 # If not available through the record itself, set this:
 export MOTOR_UNITS=mm
