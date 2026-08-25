@@ -19,10 +19,15 @@ requirements:
     - python >=3.9
     - Pillow
     - h5py
+    - happi
     - matplotlib
     - numpy
+    - ophyd
+    - pcdsdevices
+    - pydm
     - qtpy
     - scipy
+    - typhos
 
 test:
   imports:
